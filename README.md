@@ -22,10 +22,13 @@
 🚀 Обо мне
   </h3>
   </div>
-<p>Привет, меня зовут Кирилл, мне 22 года, проживаю в г.Москва!<br/>
-Back-end development Python<br/>
-Стараюсь опробовать все технологии, каждый день практикуюсь на leetcode <br/>  
-Дополнительно изучаю Computer Science, как устроен python под капотом, в будущем хочу изучить язык программирования С
+<p>
+
+<i>Привет, меня зовут Кирилл, мне 22 года, проживаю в г.Москва!</i> 🏙️<br/>
+<i>Пишу код на языке Python, стараюсь опробовать все технологии.</i><br/>
+<i>В свободное время читаю книги по Computer Science, делаю пет проекты, занимаюсь спортом!</i><br/>
+<i>Так как, я изучаю Computer Science, в будущем очень хочу изучить язык программирования C</i>  👨🏻‍💻
+
 </p>
 
 
@@ -62,11 +65,12 @@ Back-end development Python<br/>
   <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC"></a>
   <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D" ></a>
 
-
-
-
-
 </div>
+
+
+![](https://leetcard.jacoblin.cool/belskirill-com?theme=catppuccinMocha&border=0&radius=20_Script)
+![](https://leetcard.jacoblin.cool/belskirill-com?theme=nord&border=0&radius=20_Script)
+
 
   <h2></h2>
 
@@ -78,3 +82,8 @@ contact me:<br/>
      <br/> 
 </h2>
 </div>
+
+
+
+
+![Leetcode Stats](https://leetcard.belskirill.cool/belskirill)
