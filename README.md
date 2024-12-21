@@ -21,9 +21,17 @@ Back-end development Python
 
 
 
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<a href="your-linkedin-URL">
+<img src="https://img.shields.io/badge/Telegramm-%2326A5E4?style=flat&logo=telegram&logoColor=white&logoSize=100&labelColor=%2326A5E4&link=https://t.me/belskirill" alt="Telegram"/>
+</a>
+</div>
 ![Static Badge](https://img.shields.io/badge/Telegramm-%2326A5E4?style=flat&logo=telegram&logoColor=white&logoSize=100&labelColor=%2326A5E4&link=https://t.me/belskirill)
 
-![Static Badge](https://img.shields.io/badge/black-black?link=https%3A%2F%2Ft.me%2Fbelskirill)
 
 
 
