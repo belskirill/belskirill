@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <a href="https://t.me/belskirill"> <img src="https://i.imgur.com/mr2kdpm.png"/></a>
+  <a href="https://t.me/belskirill"> <img src="https://i.imgur.com/kJwQe0o.png"/></a>
 </div>
 
 
@@ -32,6 +32,11 @@
 <li>🗂  <i>Хочу научиться писать очень простой и понятный код, что бы в тоже время был эффективным!</i> 
 
 </p>
+
+
+
+
+
 
 
 
