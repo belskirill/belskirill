@@ -1,10 +1,19 @@
-# Добро пожаловать!👋
+<div id="badges" align="center">
+<h1>Welcome to my profile!👋</h1>
+</div>
+
 
 ## 🚀 Обо мне
 Привет, меня зовут Кирилл, мне 22 года, проживаю в г.Москва!  
 Back-end development Python  
 Стараюсь опробовать все технологии, каждый день практикуюсь на leetcode   
 Дополнительно изучаю Computer Science, как устроен python под капотом, в будущем хочу изучить язык программирования С
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 
 ![Static Badge](https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB)
@@ -27,10 +36,6 @@ Back-end development Python
 <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4"/>
 </a>
 </div>
-
-
-
-https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4
 
 
 
