@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <a href="https://t.me/belskirill"> <img src="https://i.imgur.com/mr2kdpm.png" width="1000"/></a>
+  <a href="https://t.me/belskirill"> <img src="https://i.imgur.com/mr2kdpm.png"/></a>
 </div>
 
 
@@ -19,15 +19,17 @@
 
 <div align="center">
   <h3>
-🚀 Обо мне
+📖 Обо мне
   </h3>
   </div>
 <p>
 
-<i>Привет, меня зовут Кирилл, мне 22 года, проживаю в г.Москва!</i> 🏙️<br/>
-<i>Пишу код на языке Python, стараюсь опробовать все технологии.</i><br/>
-<i>В свободное время читаю книги по Computer Science, делаю пет проекты, занимаюсь спортом!</i><br/>
-<i>Так как, я изучаю Computer Science, в будущем очень хочу изучить язык программирования C</i>  👨🏻‍💻
+<li>📋  <i>Привет, меня зовут Кирилл, мне 22 года, проживаю в г.Москва!</i><br/>
+<li>⌨️  <i>Пишу код на языке Python, стараюсь опробовать все технологии.</i><br/>
+<li>📔  <i>В свободное время читаю книги по Computer Science, делаю пет проекты, занимаюсь спортом!</i><br/>
+<li>📟  <i>Так как, я изучаю Computer Science, в будущем очень хочу изучить язык программирования C</i> 👨🏻‍💻<br/>
+<li>📚  <i>В целом постоянно изучаю что то новое, являюсь перефекционистом! </i><br/>
+<li>🗂  <i>Хочу научиться писать очень простой и понятный код, что бы в тоже время был эффективным!</i> 
 
 </p>
 
@@ -36,6 +38,7 @@
 
 
 <div id="header" align="center">
+  
   <a href="https://t.me/belskirill"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGluYnQwMXczN2M2ZXpwcnhxMDliYTlxcHVvbHR1d3UycWFybGV2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="200"/></a>
 </div>
 
@@ -47,7 +50,7 @@
 
 <div id="badges" align="center" > 
   <h4>
-    My technology stack:
+    🌐  My technology stack:
   </h4>
   <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB" alt=""></a>
   <a href="https://t.me/121212"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a>
@@ -67,16 +70,18 @@
 
 </div>
 
+ <h2></h2>
 
-![](https://leetcard.jacoblin.cool/belskirill-com?theme=catppuccinMocha&border=0&radius=20_Script)
-![](https://leetcard.jacoblin.cool/belskirill-com?theme=nord&border=0&radius=20_Script)
-
+<div align="center">
+  <h3>🧩  My leetcode:</h3>
+<a href="https://t.me/bels4343434kirill"><img src="https://leetcard.jacoblin.cool/belskirill-com?theme=catppuccinMocha&border=0&radius=20_Script" ></a>
+</div>
 
   <h2></h2>
 
 <div id="badges" align="center">
   <h2>
-contact me:<br/> 
+📩  contact me:<br/> 
     <br/> 
 <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125" target="_blank"/></a>
      <br/> 
@@ -84,6 +89,3 @@ contact me:<br/>
 </div>
 
 
-
-
-![Leetcode Stats](https://leetcard.belskirill.cool/belskirill)
