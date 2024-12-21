@@ -74,7 +74,7 @@ Back-end development Python<br/>
   <h2>
 contact me:<br/> 
     <br/> 
-<a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125"/></a>
+<a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125" target="_blank"/></a>
      <br/> 
 </h2>
 </div>
