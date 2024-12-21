@@ -19,17 +19,18 @@ Back-end development Python
 ![Static Badge](https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC)
 ![Static Badge](https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D)       
 
-https://github.com/belskirill-com/belskirill-com/blob/main/your-linkedin-URL
 
 
-<div id="badges">
+
+<div id="badges" align="center">
 <a href="https://t.me/belskirill">
-<img src="https://img.shields.io/badge/Telegramm-%2326A5E4?style=flat&logo=telegram&logoColor=white&logoSize=100&labelColor=%2326A5E4&link=https://t.me/belskirill" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4"/>
 </a>
 </div>
-![Static Badge](https://img.shields.io/badge/Telegramm-%2326A5E4?style=flat&logo=telegram&logoColor=white&logoSize=100&labelColor=%2326A5E4&link=https://t.me/belskirill)
 
 
+
+https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4
 
 
 
