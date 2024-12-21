@@ -57,21 +57,21 @@
   <h4>
     🌐  My technology stack:
   </h4>
-  <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB" alt=""></a>
-  <a href="https://t.me/121212"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a>
-  <a href="https://t.me/belsk"><img src="https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white&logoSize=100&labelColor=f1563b"></a>
-  <a href="https://t.me/bels1232323kirill"><img src="https://img.shields.io/badge/FastApi-gray?style=flat&logo=fastapi&logoColor=white&logoSize=100&labelColor=1b9a8e"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Django-gray?style=flat&logo=django&logoColor=white&logoSize=100&labelColor=003e2b"></a>
+  <a href="https://docs.python.org/3.13/"><img src="https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB" alt=""></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a>
+  <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white&logoSize=100&labelColor=f1563b"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastApi-gray?style=flat&logo=fastapi&logoColor=white&logoSize=100&labelColor=1b9a8e"></a>
+  <a href="https://docs.djangoproject.com/en/5.1/"><img src="https://img.shields.io/badge/Django-gray?style=flat&logo=django&logoColor=white&logoSize=100&labelColor=003e2b"></a>
   <br/> 
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/sqlalchemy-gray?style=flat&logo=sqlalchemy&logoColor=white&logoSize=100&labelColor=cc302e"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/apachekafka-gray?style=flat&logo=apachekafka&logoColor=white&logoSize=100&labelColor=808080"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Rabbitmq-gray?style=flat&logo=rabbitmq&logoColor=white&logoSize=100&labelColor=%23FF6600"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a>
+  <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/sqlalchemy-gray?style=flat&logo=sqlalchemy&logoColor=white&logoSize=100&labelColor=cc302e"></a>
+  <a href="https://kafka.apache.org/documentation/"><img src="https://img.shields.io/badge/apachekafka-gray?style=flat&logo=apachekafka&logoColor=white&logoSize=100&labelColor=808080"></a>
+  <a href="https://www.rabbitmq.com/docs"><img src="https://img.shields.io/badge/Rabbitmq-gray?style=flat&logo=rabbitmq&logoColor=white&logoSize=100&labelColor=%23FF6600"></a>
+  <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a>
   <br/> 
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Swagger-gray?style=flat-square&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=white&labelColor=%23FF6C37"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D" ></a>
+  <a href="https://swagger.io/docs/"><img src="https://img.shields.io/badge/Swagger-gray?style=flat-square&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a>
+  <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=white&labelColor=%23FF6C37"></a>
+  <a href="https://confluence.atlassian.com/jira"><img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC"></a>
+  <a href="https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html"><img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D" ></a>
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
   <h3>🧩  My leetcode:</h3>
-<a href="https://t.me/bels4343434kirill"><img src="https://leetcard.jacoblin.cool/belskirill-com?theme=catppuccinMocha&border=0&radius=20_Script" ></a>
+<a href="https://leetcode.com/u/belskirill-com/"><img src="https://leetcard.jacoblin.cool/belskirill-com?theme=catppuccinMocha&border=0&radius=20_Script" ></a>
 </div>
 
   <h2></h2>
