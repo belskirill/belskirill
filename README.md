@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <a href="https://t.me/belskirill"> <img src="https://i.imgur.com/kJwQe0o.png"/></a>
+  <a href="https://github.com/belskirill-com"> <img src="https://i.imgur.com/kJwQe0o.png"/></a>
 </div>
 
 
@@ -44,7 +44,7 @@
 
 <div id="header" align="center">
   
-  <a href="https://t.me/belskirill"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGluYnQwMXczN2M2ZXpwcnhxMDliYTlxcHVvbHR1d3UycWFybGV2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="200"/></a>
+  <a href="https://github.com/belskirill-coml"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGluYnQwMXczN2M2ZXpwcnhxMDliYTlxcHVvbHR1d3UycWFybGV2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="200"/></a>
 </div>
 
 <h2></h2>
