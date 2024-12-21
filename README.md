@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <a href="https://t.me/belskirill"> <img src="https://i.imgur.com/xjPIQqP.png" width="1000"/></a>
+  <a href="https://t.me/belskirill"> <img src="https://i.imgur.com/mr2kdpm.png" width="1000"/></a>
 </div>
 
 
