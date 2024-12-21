@@ -29,9 +29,9 @@ Back-end development Python<br/>
 
 
 
-<div id="badges" align="center"> 
+<div id="badges" align="center" > 
   <h4>
-    Мой стек технологий:
+    My technology stack:
   </h4>
   <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB" alt=""></a>
   <a href="https://t.me/121212"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a>
@@ -47,7 +47,7 @@ Back-end development Python<br/>
   <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Swagger-gray?style=flat-square&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a>
   <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=white&labelColor=%23FF6C37"></a>
   <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC"></a>
-  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D"></a>
+  <a href="https://t.me/bels4343434kirill"><img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D" ></a>
 
 
 
@@ -59,8 +59,9 @@ Back-end development Python<br/>
 
 <div id="badges" align="center">
   <h2>
-Связь со мной<br/> 
+contact me:<br/> 
     <br/> 
-<a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="150"/></a>
+<a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125"/></a>
+     <br/> 
 </h2>
 </div>
