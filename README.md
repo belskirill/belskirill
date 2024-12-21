@@ -68,8 +68,8 @@
   <a href="https://www.rabbitmq.com/docs"><img src="https://img.shields.io/badge/Rabbitmq-gray?style=flat&logo=rabbitmq&logoColor=white&logoSize=100&labelColor=%23FF6600"></a>
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a>
   <br/> 
-  <a href="https://swagger.io/docs/"><img src="https://img.shields.io/badge/Swagger-gray?style=flat-square&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a>
-  <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=white&labelColor=%23FF6C37"></a>
+  <a href="https://swagger.io/docs/"><img src="https://img.shields.io/badge/Swagger-gray?style=flat&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a>
+  <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-gray?style=flat&logo=postman&logoColor=white&labelColor=%23FF6C37"></a>
   <a href="https://confluence.atlassian.com/jira"><img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC"></a>
   <a href="https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html"><img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D" ></a>
 
