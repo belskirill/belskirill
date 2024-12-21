@@ -60,7 +60,9 @@
   <a href="https://docs.python.org/3.13/"><img src="https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB" alt=""></a>
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a>
   <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white&logoSize=100&labelColor=f1563b"></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastApi-gray?style=flat&logo=fastapi&logoColor=white&logoSize=100&labelColor=1b9a8e"></a>
+  <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/FastApi-gray?style=flat&logo=fastapi&logoColor=white&logoSize=100&labelColor=1b9a8e"></a>
+
+  
   <a href="https://docs.djangoproject.com/en/5.1/"><img src="https://img.shields.io/badge/Django-gray?style=flat&logo=django&logoColor=white&logoSize=100&labelColor=003e2b"></a>
   <br/> 
   <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/sqlalchemy-gray?style=flat&logo=sqlalchemy&logoColor=white&logoSize=100&labelColor=cc302e"></a>
