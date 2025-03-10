@@ -61,11 +61,11 @@
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a>
   <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white&logoSize=100&labelColor=f1563b"></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastApi-gray?style=flat&logo=fastapi&logoColor=white&logoSize=100&labelColor=1b9a8e"></a>
-  <a href="https://docs.djangoproject.com/en/5.1/"><img src="https://img.shields.io/badge/Django-gray?style=flat&logo=django&logoColor=white&logoSize=100&labelColor=003e2b"></a>
+
   <br/> 
   <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/sqlalchemy-gray?style=flat&logo=sqlalchemy&logoColor=white&logoSize=100&labelColor=cc302e"></a>
-  <a href="https://kafka.apache.org/documentation/"><img src="https://img.shields.io/badge/apachekafka-gray?style=flat&logo=apachekafka&logoColor=white&logoSize=100&labelColor=808080"></a>
-  <a href="https://www.rabbitmq.com/docs"><img src="https://img.shields.io/badge/Rabbitmq-gray?style=flat&logo=rabbitmq&logoColor=white&logoSize=100&labelColor=%23FF6600"></a>
+
+
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a>
   <br/> 
   <a href="https://swagger.io/docs/"><img src="https://img.shields.io/badge/Swagger-gray?style=flat&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a>
