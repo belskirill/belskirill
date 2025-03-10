@@ -64,10 +64,9 @@
 
   <br/> 
   <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/sqlalchemy-gray?style=flat&logo=sqlalchemy&logoColor=white&logoSize=100&labelColor=cc302e"></a>
-
-<a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/python-gray?style=flat&logo=Celery&logoColor=white&labelColor=%2337814A"></a>
-
+  <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/celery-gray?style=flat&logo=Celery&logoColor=white&labelColor=%2337814A"></a>
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a>
+  
   <br/> 
   <a href="https://swagger.io/docs/"><img src="https://img.shields.io/badge/Swagger-gray?style=flat&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a>
   <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-gray?style=flat&logo=postman&logoColor=white&labelColor=%23FF6C37"></a>
