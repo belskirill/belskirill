@@ -77,10 +77,7 @@
 
  <h2></h2>
 
-<div align="center">
-  <h3>🧩  My leetcode:</h3>
-<a href="https://leetcode.com/u/belskirill"><img src="https://leetcard.jacoblin.cool/belskirill?theme=catppuccinMocha&border=0&radius=20_Script" ></a>
-</div>
+
 
   <h2></h2>
 
