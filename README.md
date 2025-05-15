@@ -29,14 +29,15 @@
 <p>
 
 <ul>
-  <li>📋 <em>Привет! Меня зовут Кирилл, мне 23 года, живу в г. Москва.</em></li>
-  <li>⌨️ <em>Я backend-разработчик на Python с любимым фреймворком FastAPI.</em></li>
-  <li>📔 <em>В свободное время читаю книги по IT, делаю пет-проекты и занимаюсь спортом.</em></li>
-  <li>📚 <em>Практикую алгоритмы каждый день, чтобы поддерживать и развивать свои навыки.</em></li>
-  <li>💻 <em>Стремлюсь писать чистый, понятный и поддерживаемый код.</em></li>
-  <li>🚀 <em>В будущем планирую изучить Go для высоконагруженных систем и освоить DevOps практики.</em></li>
-  <li>💡 <em>Особенно интересуюсь масштабируемостью, производительностью и качеством кода.</em></li>
+  <li>📋 <em>Hi! My name is Kirill, I'm 23 years old and I live in Moscow.</em></li>
+  <li>⌨️ <em>I am a backend developer specializing in Python, with FastAPI as my favorite framework.</em></li>
+  <li>📔 <em>In my free time, I read books on Computer Science, work on pet projects, and stay active with sports.</em></li>
+  <li>📚 <em>I practice algorithms daily to maintain and improve my skills.</em></li>
+  <li>💻 <em>I strive to write clean, clear, and maintainable code.</em></li>
+  <li>🚀 <em>In the future, I plan to learn Go for high-load systems and deepen my knowledge in DevOps practices.</em></li>
+  <li>💡 <em>I am particularly interested in scalability, performance, and code quality.</em></li>
 </ul>
+
 
 
 
