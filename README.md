@@ -90,13 +90,7 @@
 📩  contact me:<br/> 
     <br/> 
 <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square" width="100" target="_blank"/></a>
-
- <br/> 
 <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Linked%20IN-blue?style=flat-square" width="100" target="_blank"/></a>
-
-
-
-
   <br/> 
 </h2>
 </div>
