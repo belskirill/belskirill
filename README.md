@@ -91,7 +91,7 @@
     <br/> 
 <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125" target="_blank"/></a>
 
-<a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Linked%20IN-blue?style=flat-square"/></a>
+<a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Linked%20IN-blue?style=flat-square" width="125" target="_blank"/></a>
 
 
 
