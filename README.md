@@ -71,7 +71,7 @@
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a>
   <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white&logoSize=100&labelColor=f1563b"></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastApi-gray?style=flat&logo=fastapi&logoColor=white&logoSize=100&labelColor=1b9a8e"></a>
-  <a href="https://docs.pydantic.dev/latest/"><img src="  https://img.shields.io/badge/Pydantic-gray?style=flat&logo=pydantic&logoColor=white&labelColor=pink"></a>
+  <a href="https://docs.pydantic.dev/latest/"><img src="https://img.shields.io/badge/Pydantic-gray?style=flat&logo=pydantic&logoColor=white&labelColor=pink"></a>
 
 
   
