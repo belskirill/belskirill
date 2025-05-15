@@ -88,8 +88,9 @@
 <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125" target="_blank"/></a>
 
 <a href="https://www.linkedin.com/in/belskirill" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=%230077B5" width="125"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="125"/>
 </a>
+
      <br/> 
 </h2>
 </div>
