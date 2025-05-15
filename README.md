@@ -1,3 +1,7 @@
+<!-- Подключаем FontAwesome (один раз в начале документа) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+
 
 
 
@@ -87,13 +91,17 @@
     <br/> 
 <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125" target="_blank"/></a>
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-<a href="https://www.linkedin.com/in/belskirill" target="_blank" style="color:#0077B5; text-decoration:none; font-weight:bold;">
-  <i class="fab fa-linkedin" style="margin-right:6px;"></i>LinkedIn
+
+
+<!-- Бейдж LinkedIn -->
+<a href="https://www.linkedin.com/in/belskirill" target="_blank" 
+   style="display:inline-flex; align-items:center; text-decoration:none; background:#0077B5; color:white; padding:6px 12px; border-radius:4px; font-weight:600; font-family: Arial, sans-serif;">
+  <i class="fab fa-linkedin" style="margin-right:8px; font-size:18px;"></i>LinkedIn
 </a>
 
 
-     <br/> 
+
+  <br/> 
 </h2>
 </div>
 
