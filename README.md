@@ -88,7 +88,7 @@
   <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-gray?style=flat&logo=postman&logoColor=white&labelColor=%23FF6C37"></a>
   <a href="https://confluence.atlassian.com/jira"><img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC"></a>
   <a href="https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html"><img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white&logoSize=100&labelColor=%23172B4D" ></a>
-    <a href="https://docs.gitlab.com/ci/"><img src=" https://img.shields.io/badge/Gitlab%20CI%2FCD-gray?style=flat&logo=gitlab&logoColor=white&labelColor=orange" ></a>
+  <a href="https://docs.gitlab.com/ci/"><img src=" https://img.shields.io/badge/Gitlab%20CI%2FCD-gray?style=flat&logo=gitlab&logoColor=white&labelColor=orange" ></a>
 </div>
 
 
