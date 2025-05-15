@@ -43,7 +43,7 @@
 
 <div id="header" align="center">
   
-  <a href="https://github.com/belskirill"> <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGluYnQwMXczN2M2ZXpwcnhxMDliYTlxcHVvbHR1d3UycWFybGV2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcxYWQzN2VjdjIxYXZ5cG92NnoycHJmM2s2ZWhhbjB3NmFsc2l6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0lfqHNZwWM1hOvJ9CX/giphy.gif)" width="200"/></a>
+  <a href="https://github.com/belskirill"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcxYWQzN2VjdjIxYXZ5cG92NnoycHJmM2s2ZWhhbjB3NmFsc2l6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="200"/></a>
 </div>
 
 <h2></h2>
