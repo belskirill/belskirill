@@ -91,11 +91,8 @@
     <br/> 
 <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=%2326A5E4" width="125" target="_blank"/></a>
 
+<a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Linked IN%2326A5E4?style=flat-square&labelColor=%2326A5E4" width="125" target="_blank"/></a>
 
-
-<a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
 
 
