@@ -78,6 +78,10 @@
 
   <br/> 
   <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/sqlalchemy-gray?style=flat&logo=sqlalchemy&logoColor=white&logoSize=100&labelColor=cc302e"></a>
+  <a href="https://docs.pytest.org/en/stable/"><img src="https://img.shields.io/badge/Pytest-gray?style=flat&logo=pytest&logoColor=white&labelColor=green"></a>
+
+
+  
   <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/celery-gray?style=flat&logo=Celery&logoColor=white&labelColor=%2337814A"></a>
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/redis-gray?style=flat&logo=Redis&logoColor=white&labelColor=%23FF4438"></a>
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a>
