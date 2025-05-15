@@ -93,11 +93,9 @@
 
 
 
-<!-- Бейдж LinkedIn -->
-<a href="https://www.linkedin.com/in/belskirill" target="_blank" 
-   style="display:inline-flex; align-items:center; text-decoration:none; background:#0077B5; color:white; padding:6px 12px; border-radius:4px; font-weight:600; font-family: Arial, sans-serif;">
-  <i class="fab fa-linkedin" style="margin-right:8px; font-size:18px;"></i>LinkedIn
-</a>
+<a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 
