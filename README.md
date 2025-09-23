@@ -12,7 +12,7 @@
 </div> 
 
 <div align="center"> 
-  <h3> 📖 About Me </h3> 
+  <h4> 📖 About Me </h4> 
 </div> 
 
 <p> 
@@ -34,7 +34,7 @@
 <h2></h2> 
 
 <div id="badges" align="center" > 
-  <h2> 🌐 My technology stack: </h2> 
+  <h4> 🌐 My technology stack: </h4> 
 
   <a href="https://docs.python.org/3.13/"><img src="https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB" alt=""></a> 
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a> 
@@ -58,11 +58,11 @@
 <h2></h2> 
 
 <div id="badges" align="center"> 
-  <h2> 📩 contact me:<br/> <br/> 
+  <h4> 📩 contact me:<br/> <br/> 
     <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square" width="100" target="_blank"/></a> 
     <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Linked%20IN-blue?style=flat-square" width="100" target="_blank"/></a> 
     <br/> 
-  </h2> 
+  </h4> 
 </div>
 
 
