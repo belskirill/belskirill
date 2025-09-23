@@ -8,7 +8,7 @@
 </div> 
 
 <div id="badges" align="center"> 
-  <h1>👋 Hi, I’m Kirill</h1> 
+  <h1>👋 Welcome to my profile! 👋</h1> 
 </div> 
 
 <div align="center"> 
