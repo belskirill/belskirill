@@ -57,15 +57,12 @@
 
 <h2></h2> 
 
-<div align="center">
-  <h2>📩 Contact me</h2>
-
-  <a href="https://t.me/belskirill" target="_blank" style="text-decoration:none; margin:0 8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="36"/>
-  </a><a href="https://linkedin.com/in/belskirill" target="_blank" style="text-decoration:none; margin:0 8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
-  </a>
-
+<div id="badges" align="center"> 
+  <h2> 📩 contact me:<br/> <br/> 
+    <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square" width="100" target="_blank"/></a> 
+    <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Linked%20IN-blue?style=flat-square" width="100" target="_blank"/></a> 
+    <br/> 
+  </h2> 
 </div>
 
 
