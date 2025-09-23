@@ -18,7 +18,7 @@
 <p> 
 <ul> 
   <li>💻 <em>I’m a backend developer specializing in Python</em></li> 
-  <li>🧠 <em>Interested in integrating **LLMs (Large Language Models)** into backend services</em></li> 
+  <li>🧠 <em>Interested in integrating LLMs (Large Language Models) into backend services</em></li> 
   <li>🔧 <em>Exploring DevOps practices: CI/CD, SSL certificates, Docker</em></li> 
   <li>📈 <em>Focused on scalability, performance, and maintainable code</em></li> 
   <li>🚀 <em>Currently learning how to deploy and scale AI-powered applications</em></li> 
