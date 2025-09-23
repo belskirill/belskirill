@@ -57,10 +57,21 @@
 
 <h2></h2> 
 
-<div id="badges" align="center"> 
-  <h2> 📩 contact me:<br/> <br/> 
-    <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square" width="100" target="_blank"/></a> 
-    <a href="https://t.me/belskirill"><img src="https://img.shields.io/badge/Linked%20IN-blue?style=flat-square" width="100" target="_blank"/></a> 
-    <br/> 
-  </h2> 
+<div align="center">
+
+  <h2>📩 Contact me</h2>
+
+  <a href="https://t.me/belskirill" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/belskirill" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
 </div>
+
