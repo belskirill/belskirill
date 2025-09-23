@@ -17,13 +17,11 @@
 
 <p> 
 <ul> 
-  <li>📋 <em>Hi! My name is Kirill, I'm 23 years old and I live in Moscow.</em></li> 
-  <li>⌨️ <em>I am a backend developer specializing in Python, with FastAPI as my favorite framework.</em></li> 
-  <li>📔 <em>In my free time, I read books on Computer Science, work on pet projects, and stay active with sports.</em></li> 
-  <li>📚 <em>I practice algorithms daily to maintain and improve my skills.</em></li> 
-  <li>💻 <em>I strive to write clean, clear, and maintainable code.</em></li> 
-  <li>🚀 <em>In the future, I plan to learn Go for high-load systems and deepen my knowledge in DevOps practices.</em></li> 
-  <li>💡 <em>I am particularly interested in scalability, performance, and code quality.</em></li> 
+  <li>💻 <em>I’m a backend developer specializing in Python</em></li> 
+  <li>🧠 <em>Interested in integrating **LLMs (Large Language Models)** into backend services</em></li> 
+  <li>🔧 <em>Exploring DevOps practices: CI/CD, SSL certificates, Docker</em></li> 
+  <li>📈 <em>Focused on scalability, performance, and maintainable code</em></li> 
+  <li>🚀 <em>Currently learning how to deploy and scale AI-powered applications</em></li> 
 </ul> 
 </p> 
 
