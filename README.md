@@ -3,7 +3,7 @@
 
 <div id="header" align="center"> 
   <a href="https://github.com/belskirill"> 
-    <img src="blob:https://imgur.com/e54c45be-8ce4-44f7-8ce2-05395b734b4e"/>
+    <img src="https://i.imgur.com/ElyqrhM.png"/>
   </a> 
 </div> 
 
