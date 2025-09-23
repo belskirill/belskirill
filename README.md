@@ -34,7 +34,7 @@
 <h2></h2> 
 
 <div id="badges" align="center" > 
-  <h4> 🌐 My technology stack: </h4> 
+  <h2> 🌐 My technology stack: </h2> 
 
   <a href="https://docs.python.org/3.13/"><img src="https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=3776AB" alt=""></a> 
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/Postgresql-gray?style=flat&logo=postgresql&logoColor=white&logoSize=100&labelColor=3a6c94"></a> 
