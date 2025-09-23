@@ -61,18 +61,17 @@
 
   <h2>📩 Contact me</h2>
 
+  <!-- Telegram -->
   <a href="https://t.me/belskirill" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0&label=" alt="Telegram"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/belskirill" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&label=" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=2CA5E0&color=2CA5E0&logoWidth=20" height="35"/>
   </a>
 
-  <a href="mailto:yourmail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&label=" alt="Email"/>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/belskirill" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20" height="35"/>
   </a>
 
 </div>
+
 
 
