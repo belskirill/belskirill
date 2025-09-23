@@ -60,24 +60,14 @@
 <div align="center">
   <h2>📩 Contact me</h2>
 
-  <a href="https://t.me/belskirill"
-     target="_blank"
-     style="text-decoration:none; margin:0 6px;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-         alt="Telegram"
-         height="36"
-         style="vertical-align:middle; border:0;">
+  <a href="https://t.me/belskirill" target="_blank" style="text-decoration:none; margin:0 8px; display:inline-block;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="36"/>
+  </a><a href="https://linkedin.com/in/belskirill" target="_blank" style="text-decoration:none; margin:0 8px; display:inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
   </a>
 
-  <a href="https://linkedin.com/in/belskirill"
-     target="_blank"
-     style="text-decoration:none; margin:0 6px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn"
-         height="36"
-         style="vertical-align:middle; border:0;">
-  </a>
 </div>
+
 
 
 
