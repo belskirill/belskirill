@@ -8,7 +8,7 @@
 
 
 <div id="header" align="center">
-  <a href="https://github.com/belskirill"> <img src="https://imgur.com/weIs420"/></a>
+  <a href="https://github.com/belskirill"> <img src="https://i.imgur.com/weIs420.jpeg"/></a>
 </div>
 
 
