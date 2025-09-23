@@ -63,15 +63,16 @@
 
   <!-- Telegram -->
   <a href="https://t.me/belskirill" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=2CA5E0&color=2CA5E0&logoWidth=20" height="35"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/belskirill" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 </div>
+
 
 
 
