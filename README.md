@@ -48,8 +48,9 @@
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/redis-gray?style=flat&logo=Redis&logoColor=white&labelColor=%23FF4438"></a> 
   <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-gray?style=flat&logo=rabbitmq&logoColor=white&logoSize=100&labelColor=%23FF6600"></a>
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a> 
-  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-gray?style=flat&logo=nginx&logoColor=white&labelColor=%23228B22"></a> 
-  <a href="https://docs.gitlab.com/ci/"><img src="https://img.shields.io/badge/Gitlab%20CI%2FCD-gray?style=flat&logo=gitlab&logoColor=white&labelColor=orange"></a>  
+  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-gray?style=flat&logo=nginx&logoColor=white&labelColor=%23228B22"></a>
+  
+  <a href="https://docs.gitlab.com/ci/"><img src="https://img.shields.io/badge/Gitlab%20CI%2FCD-gray?style=flat&logo=gitlab&logoColor=white&labelColor=orange"></a>
   <a href="https://swagger.io/docs/"><img src="https://img.shields.io/badge/Swagger-gray?style=flat&logo=swagger&logoColor=white&labelColor=%2385EA2D"></a> 
   <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-gray?style=flat&logo=postman&logoColor=white&labelColor=%23FF6C37"></a> 
   <a href="https://confluence.atlassian.com/jira"><img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white&logoSize=100&labelColor=%230052CC"></a> 
