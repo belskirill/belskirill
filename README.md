@@ -47,7 +47,6 @@
   <a href="https://docs.sqlalchemy.org/en/20/"><img src="https://img.shields.io/badge/celery-gray?style=flat&logo=Celery&logoColor=white&labelColor=%2337814A"></a> 
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/redis-gray?style=flat&logo=Redis&logoColor=white&labelColor=%23FF4438"></a> 
   <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-gray?style=flat&logo=rabbitmq&logoColor=white&logoSize=100&labelColor=%23FF6600"></a>
-
   <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=white&logoSize=100&labelColor=2668ee"></a> 
   <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-gray?style=flat&logo=nginx&logoColor=white&labelColor=%23228B22"></a> 
   <a href="https://docs.gitlab.com/ci/"><img src="https://img.shields.io/badge/Gitlab%20CI%2FCD-gray?style=flat&logo=gitlab&logoColor=white&labelColor=orange"></a>  
